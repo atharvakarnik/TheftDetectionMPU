@@ -2,9 +2,9 @@
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 
-const char* ssid = "AK47";  //Your Wi-Fi Name (Hotspot)
-const char* password = "alduin28";  //Your Wi-Fi(Hotspot) password
-char auth[] = "wfeAoYlT_AXnkPxUFxqWr1Gul4KIedRr";  //Blynk Token
+const char* ssid = "XXXX";  //Your Wi-Fi Name (Hotspot)
+const char* password = "XXXXXXXX";  //Your Wi-Fi(Hotspot) password
+char auth[] = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";  //Blynk Token
 
 WiFiServer server(80);
 
